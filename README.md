@@ -1,1 +1,2 @@
-# clembomp.github.io
+Clement BOMPARD
+Jeremy CHANSIN
